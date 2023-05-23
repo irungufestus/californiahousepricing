@@ -13,4 +13,4 @@
 ## create a new environment
 
 ---
-conda  create -p venv python==3.11.3 -y
+conda  create -p venv python==3.10.9  -y
